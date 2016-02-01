@@ -1,0 +1,2 @@
+# SynthStatique
+Test du statique
